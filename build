@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-docker build -t alpine-laravel5 .
+docker build -t vojtabiberle/alpine-laravel5 .
